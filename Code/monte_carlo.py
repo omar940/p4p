@@ -8,14 +8,14 @@ Created on Thu May 31 12:16:58 2018
 from params import params
 import pandas as pd
 
-def monte_carlo(n, x):
+def monte_carlo(df, x):
     #Monte Carlo simulation that performs 'x' iterations of calculating the mean and standard deviation for "n" sites. Outputs dataframe with average means across all sites (sorted from lowest to highest for graphing purposes), average standard deviations across all sites, and site #.
     df_means = pd.DataFrame()
     df_stds = pd.DataFrame()
     
     for i in range(x):
         if i == 0:
-            df = params(n) #create "true" values for Monte Carlo (sampling from truth)
+            df = params(df) #create "true" values for Monte Carlo (sampling from truth)
             df = df.sort_values(by=['ECF_mean'])
             df_means.loc[:,i] = pd.Series(df.iloc[:,0])
             #add ECF means to dataframe
