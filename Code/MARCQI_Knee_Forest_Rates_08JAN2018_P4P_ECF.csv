@@ -1,0 +1,61 @@
+﻿Hospital_ID,Hospital,Short_Name,Site_Rate_L95,Site_Rate,Site_Rate_U95,Avg_2014,Color_CY2014
+2,UM,UM,12,14.9,18.33,19.15,Green
+3,SJ AA,SJ-AA,15.68,18.85,22.33,19.15,Tan
+8,Chelsea,Chelsea,5.7,7.51,10.15,19.15,Green
+9,Providence,Prov,7.65,9.67,11.93,19.15,Green
+10,Crittenton,Critten,8.92,11.41,14.17,19.15,Green
+11,St Joe Oak,SJ-Oak,7.98,9.99,12.64,19.15,Green
+12,Munson Cadillac,Cadillac,6.83,9.37,12.85,19.15,Green
+14,Mercy Health Partners,Hackley,11.7,14.51,17.94,19.15,Green
+16,Spectrum,Spectrum,9.42,11.21,13.34,19.15,Green
+17,Sparrow,Sparrow,11.37,14.48,18.38,19.15,Green
+18,McLaren Lansing,MC-Lans,8.25,9.93,12.28,19.15,Green
+20,McLaren Oakland,MC-Oak,7.57,11.57,17.08,19.15,Green
+21,Borgess,Borgess,8.01,10.24,13.27,19.15,Green
+22,McLaren Macomb,MC-Mac,4.89,7.12,9.96,19.15,Green
+23,Beau RO,Beau-RO,14.94,17.46,20.49,19.15,Tan
+24,Beau Troy,Beau-Troy,16.07,18.67,21.96,19.15,Tan
+25,Beau GP,Beau-GP,7.29,9.81,12.44,19.15,Green
+26,McLaren Port Huron,MC-PH,12.15,16.34,21.31,19.15,Tan
+29,Bronson,Bronson,4.3,6.06,8.24,19.15,Green
+30,St Mary GR,St Mary-GR,7.51,9.96,13.26,19.15,Green
+31,UP Health-Marquette,Marquet,7.8,10.75,15.37,19.15,Green
+32,McLaren No. MI,MC-No MI,5.78,8.3,11.46,19.15,Green
+33,Munson-TC,Munson,5.08,6.76,8.72,19.15,Green
+34,Henry Ford-Allegiance,HF-Alleg,11.78,15.41,20.26,19.15,Tan
+35,McLaren Flint,MC-Flint,4.84,6.52,8.41,19.15,Green
+36,St John Hospital,St John,11.36,14.32,18.39,19.15,Green
+37,StJohn Macomb,SJMO,10.84,14.18,18.4,19.15,Green
+38,HF Macomb,HF-Mac,13.1,15.78,19.21,19.15,Tan
+39,McLaren Lapeer,MC-Lapeer,10.77,13.68,18.45,19.15,Green
+40,Lakeland,Lakeland,5.43,7.78,10.96,19.15,Green
+41,Beaumont Farm. Hills,Beau-FH,4.32,6.28,8.63,19.15,Green
+42,Mid Michigan-Midland,MidMich-M,6.61,8.74,11.51,19.15,Green
+43,Covenant,Covenant,7.19,9.17,11.71,19.15,Green
+44,Hurley,Hurley,5.37,7.88,10.85,19.15,Green
+45,Genesys,Genesys,12.6,15.2,18.62,19.15,Green
+46,Bronson Battle Creek,Bron-BC,13.08,16.66,20.24,19.15,Tan
+47,HF Det,HF-Det,3.99,6.06,9.14,19.15,Green
+48,HF West Bloomfield,HF-WB,4.77,6.48,8.73,19.15,Green
+49,HF Wyandotte,HF-Wyan,9.7,12.31,16.29,19.15,Green
+50,St Mary- Livonia,St Mary-Liv,5.5,7.71,10.24,19.15,Green
+51,Beaumont-Taylor,Beau-Tay,13.53,17.57,22.51,19.15,Tan
+52,Beaumont Dearborn,Beau-Dear,8.93,11.37,14.01,19.15,Green
+53,Beaumont Trenton,Beau-Trent,6.83,9.15,11.96,19.15,Green
+54,Metro Health Hospital,Metro,9.34,12.04,15.73,19.15,Green
+55,Garden City Hospital,Gard City,17.09,22.36,27.96,19.15,Tan
+56,Muskegon Surgery Center,Mercy-Musk,,,,,-
+57,West Branch RMC,West Bran,6.43,9.24,12.75,19.15,Green
+58,Holland Hospital,Holland,11.63,14.68,18.42,19.15,Green
+59,OrthoMichigan,OrthoMich,,,,,-
+60,Huron Valley Sinai Hospital,HVSinai,10.73,13.67,17.47,19.15,Green
+61,MidMichigan-Gratiot,MidMich-G,10.58,15.44,21.65,19.15,Tan
+62,MidMichigan-Clare,MidMich-C,,,,,-
+63,U P Health-Bell,Bell,6.02,9.93,15.44,19.15,Green
+64,U P Health-Portage,Portage,,,,,-
+65,Memorial Healthcare,Memorial,13.97,18.5,26.3,19.15,Tan
+66,McLaren Bay Region,MC-Bay,7.03,9.48,12.35,19.15,Green
+67,Lake Huron Medical Center,LH,12.75,16.65,22.34,19.15,Tan
+68,Sinai-Grace,Sinai-G,17.5,24.53,32.65,19.15,Tan
+69,Harper,Harper,18.06,22.01,26.44,19.15,Tan
+70,SJ LI,SJ-LI,13.22,17.41,22.47,19.15,Tan

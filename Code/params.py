@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 
 
-def params(n):
+def params(df):
     '''Sets up parameters (mean and standard deviation) for 'n' sites and stores in pandas dataframe (df)'''
 
     #(b - a) * random_sample() + a; Unif[a, b), b > a 
